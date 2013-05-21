@@ -1,0 +1,20 @@
+{
+  "name": "haba",
+  "version": "0.0.0",
+  "description": "this is not real project, just to resolve dependency problem in npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/narsic/haba.nodejs.git"
+  },
+  "keywords": [
+    "haba"
+  ],
+  "author": "narsic <narsicnet@gmail.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "c07908c2fa71045b8604a456e451063eaf8a39b5"
+}
